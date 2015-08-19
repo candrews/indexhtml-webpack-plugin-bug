@@ -1,0 +1,14 @@
+{
+  "name": "bug",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "css-loader": "~0.16.0",
+    "extract-text-webpack-plugin": "~0.8.2",
+    "html-loader": "~0.3.0",
+    "indexhtml-webpack-plugin": "~0.1.6",
+    "style-loader": "~0.12.3",
+    "file-loader": "~0.8.4",
+    "webpack": "~1.11.0"
+  }
+}
